@@ -1,2 +1,2 @@
 # Vector_internship
-This repo contains the code for my internship at vector institute. We tried to use structured normalizing flows for variational inference for music generation task. use main file for experiments on music dataset. 
+This repository encompasses the code developed during my internship at the Vector Institute. Our focus was on implementing structured normalizing flows for variational inference in the context of music generation tasks. Please refer to the main file for running experiments specifically on music datasets.
